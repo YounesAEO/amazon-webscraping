@@ -1,0 +1,22 @@
+{
+  "name": "amazon-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YounesAEO/amazon-webscraping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YounesAEO/amazon-webscraping/issues"
+  },
+  "homepage": "https://github.com/YounesAEO/amazon-webscraping#readme",
+  "dependencies": {
+    "puppeteer": "^5.0.0"
+  }
+}
